@@ -1,0 +1,8 @@
+{
+  "name": "ReadPdf",
+  "description": "Upload and read PDF documents online with built-in page number search for fast navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
